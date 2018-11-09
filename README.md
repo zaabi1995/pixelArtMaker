@@ -2,15 +2,26 @@
 
 ## Table of Contents
 
+* [Build](#build)
 * [Instructions](#instructions)
 * [Contributing](#contributing)
 
+## Build
+
+The project has been built on HTML + CSS + Javascript, this is for Udacity's Intro To Programming Project.
+
+The project is to run any web browser with internet connection.
+
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+Run the index.html file to have the project running.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Choose the height and width of the canvas.
 
-## Contributing
+Choose a color of your liking.
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+& Paint away!
+
+## Dependent
+
+The project depends on JQuery from Google v3.3.1.
